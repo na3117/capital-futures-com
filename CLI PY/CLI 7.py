@@ -56,8 +56,8 @@ stock_config = {
 }
 TRIGGER_CONFIG = {"take_profit": 0.03, "stop_loss": 0.01}
 POSITIONS_FILE = "positions.json"
-account = "R124457999"
-password = "123jacky0"
+account = "USERNAME"
+password = "PASSWORD"
 stock_state = {}
 
 # ✅ 引用官方 Config.py 的帳號密碼

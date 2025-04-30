@@ -197,7 +197,7 @@ print(f"✅ 已確認 {stock_list} 成功新增")
 
 api = SKAPI()
 api.stocks_to_subscribe = list(target_stocks.keys())
-api.login("R124457999", "123jacky0")
+api.login("USERNAME", "PASSWORD")
 api.set_tick_callback(on_tick)
 
 tick_event_handler = TickEvent()

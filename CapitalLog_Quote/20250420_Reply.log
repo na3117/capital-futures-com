@@ -1,10 +1,10 @@
 -----------------------------------------------------------------
-[7868] 2025/04/20 12:36:54.368 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
-[7868] 2025/04/20 12:36:59.682 After Precheck status:0 取得回報連線資訊
-[5836] 2025/04/20 17:12:17.348 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
-[5088] 2025/04/20 17:12:49.804 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
-[2788] 2025/04/20 18:40:37.565 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
-[2788] 2025/04/20 18:40:41.546 After Precheck status:0 取得回報連線資訊
-[7260] 2025/04/20 22:53:01.732 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
-[7260] 2025/04/20 22:53:07.105 After Precheck status:0 取得回報連線資訊
-[7260] 2025/04/20 22:54:45.961 OnSolaceReplyDisConnect, ID: R124457999 , Code: 3002
+[7868] 2025/04/20 12:36:54.368 OnReplyMessage, ID: USERNAME , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[7868] 2025/04/20 12:36:59.682 After Precheck status:0 嚙踝蕭嚙緻嚙稷嚙踝蕭嚙編嚙線嚙踝蕭T
+[5836] 2025/04/20 17:12:17.348 OnReplyMessage, ID: USERNAME , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[5088] 2025/04/20 17:12:49.804 OnReplyMessage, ID: USERNAME , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[2788] 2025/04/20 18:40:37.565 OnReplyMessage, ID: USERNAME , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[2788] 2025/04/20 18:40:41.546 After Precheck status:0 嚙踝蕭嚙緻嚙稷嚙踝蕭嚙編嚙線嚙踝蕭T
+[7260] 2025/04/20 22:53:01.732 OnReplyMessage, ID: USERNAME , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[7260] 2025/04/20 22:53:07.105 After Precheck status:0 嚙踝蕭嚙緻嚙稷嚙踝蕭嚙編嚙線嚙踝蕭T
+[7260] 2025/04/20 22:54:45.961 OnSolaceReplyDisConnect, ID: USERNAME , Code: 3002

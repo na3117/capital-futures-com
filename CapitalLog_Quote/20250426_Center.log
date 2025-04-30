@@ -1,8 +1,8 @@
 -----------------------------------------------------------------
-[12216] 2025/04/26 18:03:57.422 SKCenterLib_LoginGW R124457999
-[12216] 2025/04/26 18:03:57.812 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[12216] 2025/04/26 18:03:57.422 SKCenterLib_LoginGW USERNAME
+[12216] 2025/04/26 18:03:57.812 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [12216] 2025/04/26 18:03:57.813 Start update timer automatically.  Result of Timer 11052
-[12216] 2025/04/26 18:03:57.998 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[12216] 2025/04/26 18:03:58.141 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[12216] 2025/04/26 18:03:58.356 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[12216] 2025/04/26 18:03:57.998 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[12216] 2025/04/26 18:03:58.141 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[12216] 2025/04/26 18:03:58.356 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [12216] 2025/04/26 18:03:58.356 Login all status is 0

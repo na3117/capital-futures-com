@@ -1,15 +1,15 @@
 -----------------------------------------------------------------
-[10904] 2025/04/25 16:02:47.988 SKCenterLib_LoginGW R124457999
-[10904] 2025/04/25 16:02:48.504 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[10904] 2025/04/25 16:02:47.988 SKCenterLib_LoginGW USERNAME
+[10904] 2025/04/25 16:02:48.504 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [10904] 2025/04/25 16:02:48.504 Start update timer automatically.  Result of Timer 25627
-[10904] 2025/04/25 16:02:48.686 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[10904] 2025/04/25 16:02:48.832 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[10904] 2025/04/25 16:02:49.108 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[10904] 2025/04/25 16:02:48.686 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[10904] 2025/04/25 16:02:48.832 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[10904] 2025/04/25 16:02:49.108 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [10904] 2025/04/25 16:02:49.109 Login all status is 0
-[8720] 2025/04/25 16:13:03.376 SKCenterLib_LoginGW R124457999
-[8720] 2025/04/25 16:13:03.702 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[8720] 2025/04/25 16:13:03.376 SKCenterLib_LoginGW USERNAME
+[8720] 2025/04/25 16:13:03.702 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [8720] 2025/04/25 16:13:03.702 Start update timer automatically.  Result of Timer 25283
-[8720] 2025/04/25 16:13:03.898 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[8720] 2025/04/25 16:13:04.070 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[8720] 2025/04/25 16:13:04.278 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[8720] 2025/04/25 16:13:03.898 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[8720] 2025/04/25 16:13:04.070 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[8720] 2025/04/25 16:13:04.278 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [8720] 2025/04/25 16:13:04.278 Login all status is 0

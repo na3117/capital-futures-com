@@ -155,7 +155,7 @@ stock_list = ", ".join(target_stocks.keys())
 print(f"✅ 已確認 {stock_list} 成功新增")
 
 api = SKAPI()
-api.login("R124457999", "123jacky0")
+api.login("USERNAME", "PASSWORD")
 api.sk_quote.SKQuoteLib_EnterMonitor()
 
 for stock_id in target_stocks:

@@ -29,8 +29,8 @@ print(f"[2] Debug Log 已設置於 {log_dir} ✅")
 
 # ✅ 執行登入
 print("[3] 嘗試登入中...")
-account = input("R124457999：")
-password = input("123jacky0：")
+account = input("USERNAME：")
+password = input("PASSWORD：")
 ret = m_pSKCenter.SKCenterLib_Login(account, password)
 
 if ret == 0:

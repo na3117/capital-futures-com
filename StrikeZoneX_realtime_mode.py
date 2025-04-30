@@ -27,7 +27,7 @@ support_resistance_map = {
 
 # ========== 2. 登入 ==========
 api = SKAPI()
-api.login("R124457999", "123jacky0")
+api.login("USERNAME", "PASSWORD")
 
 # ========== 3. 抓取 + 模擬每一支 ==========
 for stock_id in stock_ids:

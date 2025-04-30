@@ -1,10 +1,10 @@
 -----------------------------------------------------------------
-[2184] 2025/04/28 19:19:52.923 SKCenterLib_LoginGW R124457999
-[2184] 2025/04/28 19:19:53.290 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[2184] 2025/04/28 19:19:52.923 SKCenterLib_LoginGW USERNAME
+[2184] 2025/04/28 19:19:53.290 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [2184] 2025/04/28 19:19:53.290 Start update timer automatically.  Result of Timer 26521
-[2184] 2025/04/28 19:19:53.470 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[2184] 2025/04/28 19:19:53.618 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[2184] 2025/04/28 19:19:53.844 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[2184] 2025/04/28 19:19:53.470 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[2184] 2025/04/28 19:19:53.618 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[2184] 2025/04/28 19:19:53.844 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [2184] 2025/04/28 19:19:53.845 Login all status is 0
 [2184] 2025/04/28 19:19:55.562 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
 [2184] 2025/04/28 19:35:52.637 -----------------------------------------------------------------

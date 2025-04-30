@@ -54,8 +54,8 @@ stock_config = {
 }
 TRIGGER_CONFIG = {"take_profit": 0.03, "stop_loss": 0.01}
 POSITIONS_FILE = "positions.json"
-account = "R124457999"
-password = "123jacky0"
+account = "USERNAME"
+password = "PASSWORD"
 stock_state = {}
 
 # ---------- 群益登入與 COM 元件建立 ----------

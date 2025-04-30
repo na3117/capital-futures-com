@@ -61,7 +61,7 @@ def 主程序():
 
         api = 群益API()
         api.stocks_to_subscribe = 股票清單
-        api.登入("R124457999", "123jacky0")  # 請替換成真實帳號密碼
+        api.登入("USERNAME", "PASSWORD")  # 請替換成真實帳號密碼
 
         紀錄器 = 即時資料紀錄器(股票清單)
         首支股票 = 股票清單[0]

@@ -4,7 +4,7 @@ import pandas as pd
 
 # === 登入與資料取得 ===
 api = SKAPI()
-api.login("R124457999", "123jacky0")
+api.login("USERNAME", "PASSWORD")
 tick_list = api.get_ticks("2330", "20250415")
 print(f"✅ 成功取得 Tick 筆數：{len(tick_list)}")
 if not tick_list:

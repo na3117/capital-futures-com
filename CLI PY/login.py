@@ -24,8 +24,8 @@ class ReplyHandler:
 global_reply_hook = GetEvents(skR, ReplyHandler())
 
 # -- Step 3: 登入帳號（請改為你的帳密） --
-user_id = "R124457999"
-password = "123jacky0"
+user_id = "USERNAME"
+password = "PASSWORD"
 nCode = skC.SKCenterLib_Login(user_id, password)
 print("登入回傳：", nCode, skC.SKCenterLib_GetReturnCodeMessage(nCode))
 time.sleep(1)

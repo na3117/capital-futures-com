@@ -1,58 +1,58 @@
 -----------------------------------------------------------------
-[6520] 2025/04/22 05:51:45.261 SKCenterLib_LoginGW R124457999
-[6520] 2025/04/22 05:51:45.960 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[6520] 2025/04/22 05:51:45.261 SKCenterLib_LoginGW USERNAME
+[6520] 2025/04/22 05:51:45.960 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [6520] 2025/04/22 05:51:45.961 Start update timer automatically.  Result of Timer 31574
-[6520] 2025/04/22 05:51:46.203 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[6520] 2025/04/22 05:51:46.259 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[6520] 2025/04/22 05:51:46.452 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[6520] 2025/04/22 05:51:46.203 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[6520] 2025/04/22 05:51:46.259 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[6520] 2025/04/22 05:51:46.452 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [6520] 2025/04/22 05:51:46.452 Login all status is 0
-[1484] 2025/04/22 06:17:00.470 SKCenterLib_LoginGW R124457999
-[1484] 2025/04/22 06:17:00.766 /Login/Password Query result is 306,±z¿é¤Jªº±b¸¹©Î±K½X¿ù»~¡A½Ð­«·s¿é¤J¡AÁÂÁÂ¡C
+[1484] 2025/04/22 06:17:00.470 SKCenterLib_LoginGW USERNAME
+[1484] 2025/04/22 06:17:00.766 /Login/Password Query result is 306,ï¿½zï¿½ï¿½Jï¿½ï¿½ï¿½bï¿½ï¿½ï¿½Î±Kï¿½Xï¿½ï¿½ï¿½~ï¿½Aï¿½Ð­ï¿½ï¿½sï¿½ï¿½Jï¿½Aï¿½ï¿½ï¿½Â¡C
 [1484] 2025/04/22 06:17:00.766 Login error code is 306
-[1484] 2025/04/22 06:17:15.199 SKCenterLib_LoginGW R124457999
-[1484] 2025/04/22 06:17:15.399 /Login/Password Query result is 306,±z¿é¤Jªº±b¸¹©Î±K½X¿ù»~¡A½Ð­«·s¿é¤J¡AÁÂÁÂ¡C
+[1484] 2025/04/22 06:17:15.199 SKCenterLib_LoginGW USERNAME
+[1484] 2025/04/22 06:17:15.399 /Login/Password Query result is 306,ï¿½zï¿½ï¿½Jï¿½ï¿½ï¿½bï¿½ï¿½ï¿½Î±Kï¿½Xï¿½ï¿½ï¿½~ï¿½Aï¿½Ð­ï¿½ï¿½sï¿½ï¿½Jï¿½Aï¿½ï¿½ï¿½Â¡C
 [1484] 2025/04/22 06:17:15.399 Login error code is 306
-[1484] 2025/04/22 06:17:25.514 SKCenterLib_LoginGW R124457999
-[1484] 2025/04/22 06:17:25.663 /Login/Password Query result is 306,±z¿é¤Jªº±b¸¹©Î±K½X¿ù»~¡A½Ð­«·s¿é¤J¡AÁÂÁÂ¡C
+[1484] 2025/04/22 06:17:25.514 SKCenterLib_LoginGW USERNAME
+[1484] 2025/04/22 06:17:25.663 /Login/Password Query result is 306,ï¿½zï¿½ï¿½Jï¿½ï¿½ï¿½bï¿½ï¿½ï¿½Î±Kï¿½Xï¿½ï¿½ï¿½~ï¿½Aï¿½Ð­ï¿½ï¿½sï¿½ï¿½Jï¿½Aï¿½ï¿½ï¿½Â¡C
 [1484] 2025/04/22 06:17:25.663 Login error code is 306
-[7892] 2025/04/22 06:18:05.467 SKCenterLib_LoginGW R124457999
-[7892] 2025/04/22 06:18:05.659 /Login/Password Query result is 307,±K½X¿é¿ù¶W¹L¤W­­¤wÂê©w¡A½Ð¦Ü¦U¹q¤l¥­¥xµn¤J³BÂI¿ï¡i±K½X±M°Ï¡j¡A¥H¯d¦s¤§¦³®Ä¤â¾÷±µ¦¬»{ÃÒ½X¡A¥ß§Y¸ÑÂê¡F¦p¬°´Á³f¥Xª÷±K½XÂê©w¡A½Ð³w¬¢´Á³f¤H¤u¥Xª÷±M½u©Î¼·02-4128878¬¢«ÈªA¨ó§U¸ÑÂê¡C
+[7892] 2025/04/22 06:18:05.467 SKCenterLib_LoginGW USERNAME
+[7892] 2025/04/22 06:18:05.659 /Login/Password Query result is 307,ï¿½Kï¿½Xï¿½ï¿½ï¿½ï¿½Wï¿½Lï¿½Wï¿½ï¿½ï¿½wï¿½ï¿½wï¿½Aï¿½Ð¦Ü¦Uï¿½qï¿½lï¿½ï¿½ï¿½xï¿½nï¿½Jï¿½Bï¿½Iï¿½ï¿½iï¿½Kï¿½Xï¿½Mï¿½Ï¡jï¿½Aï¿½Hï¿½dï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Ä¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½Ò½Xï¿½Aï¿½ß§Yï¿½ï¿½ï¿½ï¿½Fï¿½pï¿½ï¿½ï¿½ï¿½ï¿½fï¿½Xï¿½ï¿½ï¿½Kï¿½Xï¿½ï¿½wï¿½Aï¿½Ð³wï¿½ï¿½ï¿½ï¿½ï¿½fï¿½Hï¿½uï¿½Xï¿½ï¿½ï¿½Mï¿½uï¿½Î¼ï¿½02-4128878ï¿½ï¿½ï¿½ÈªAï¿½ï¿½Uï¿½ï¿½ï¿½ï¿½C
 [7892] 2025/04/22 06:18:05.659 Login error code is 307
-[7892] 2025/04/22 06:18:21.327 SKCenterLib_LoginGW R124457999
-[7892] 2025/04/22 06:18:21.519 /Login/Password Query result is 307,±K½X¿é¿ù¶W¹L¤W­­¤wÂê©w¡A½Ð¦Ü¦U¹q¤l¥­¥xµn¤J³BÂI¿ï¡i±K½X±M°Ï¡j¡A¥H¯d¦s¤§¦³®Ä¤â¾÷±µ¦¬»{ÃÒ½X¡A¥ß§Y¸ÑÂê¡F¦p¬°´Á³f¥Xª÷±K½XÂê©w¡A½Ð³w¬¢´Á³f¤H¤u¥Xª÷±M½u©Î¼·02-4128878¬¢«ÈªA¨ó§U¸ÑÂê¡C
+[7892] 2025/04/22 06:18:21.327 SKCenterLib_LoginGW USERNAME
+[7892] 2025/04/22 06:18:21.519 /Login/Password Query result is 307,ï¿½Kï¿½Xï¿½ï¿½ï¿½ï¿½Wï¿½Lï¿½Wï¿½ï¿½ï¿½wï¿½ï¿½wï¿½Aï¿½Ð¦Ü¦Uï¿½qï¿½lï¿½ï¿½ï¿½xï¿½nï¿½Jï¿½Bï¿½Iï¿½ï¿½iï¿½Kï¿½Xï¿½Mï¿½Ï¡jï¿½Aï¿½Hï¿½dï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Ä¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½Ò½Xï¿½Aï¿½ß§Yï¿½ï¿½ï¿½ï¿½Fï¿½pï¿½ï¿½ï¿½ï¿½ï¿½fï¿½Xï¿½ï¿½ï¿½Kï¿½Xï¿½ï¿½wï¿½Aï¿½Ð³wï¿½ï¿½ï¿½ï¿½ï¿½fï¿½Hï¿½uï¿½Xï¿½ï¿½ï¿½Mï¿½uï¿½Î¼ï¿½02-4128878ï¿½ï¿½ï¿½ÈªAï¿½ï¿½Uï¿½ï¿½ï¿½ï¿½C
 [7892] 2025/04/22 06:18:21.519 Login error code is 307
-[7892] 2025/04/22 06:20:29.165 SKCenterLib_LoginGW R124457999
-[7892] 2025/04/22 06:20:29.358 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[7892] 2025/04/22 06:20:29.165 SKCenterLib_LoginGW USERNAME
+[7892] 2025/04/22 06:20:29.358 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [7892] 2025/04/22 06:20:29.358 Start update timer automatically.  Result of Timer 30462
-[7892] 2025/04/22 06:20:29.506 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[7892] 2025/04/22 06:20:29.553 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[7892] 2025/04/22 06:20:29.655 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[7892] 2025/04/22 06:20:29.506 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[7892] 2025/04/22 06:20:29.553 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[7892] 2025/04/22 06:20:29.655 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [7892] 2025/04/22 06:20:29.655 Login all status is 0
-[12244] 2025/04/22 16:29:19.868 SKCenterLib_LoginGW R124457999
-[12244] 2025/04/22 16:29:20.253 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[12244] 2025/04/22 16:29:19.868 SKCenterLib_LoginGW USERNAME
+[12244] 2025/04/22 16:29:20.253 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [12244] 2025/04/22 16:29:20.253 Start update timer automatically.  Result of Timer 6864
-[12244] 2025/04/22 16:29:20.449 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[12244] 2025/04/22 16:29:20.509 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[12244] 2025/04/22 16:29:20.649 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[12244] 2025/04/22 16:29:20.449 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[12244] 2025/04/22 16:29:20.509 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[12244] 2025/04/22 16:29:20.649 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [12244] 2025/04/22 16:29:20.649 Login all status is 0
-[9856] 2025/04/22 16:31:56.271 SKCenterLib_LoginGW R124457999
-[9856] 2025/04/22 16:31:56.581 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[9856] 2025/04/22 16:31:56.271 SKCenterLib_LoginGW USERNAME
+[9856] 2025/04/22 16:31:56.581 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [9856] 2025/04/22 16:31:56.581 Start update timer automatically.  Result of Timer 6820
-[9856] 2025/04/22 16:31:56.903 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[9856] 2025/04/22 16:31:57.129 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[9856] 2025/04/22 16:31:57.326 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[9856] 2025/04/22 16:31:56.903 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[9856] 2025/04/22 16:31:57.129 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[9856] 2025/04/22 16:31:57.326 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [9856] 2025/04/22 16:31:57.326 Login all status is 0
-[1796] 2025/04/22 17:27:14.939 SKCenterLib_LoginGW R124457999
-[1796] 2025/04/22 17:27:15.291 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[1796] 2025/04/22 17:27:14.939 SKCenterLib_LoginGW USERNAME
+[1796] 2025/04/22 17:27:15.291 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [1796] 2025/04/22 17:27:15.291 Start update timer automatically.  Result of Timer 5434
-[1796] 2025/04/22 17:27:15.602 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[1796] 2025/04/22 17:27:15.696 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[1796] 2025/04/22 17:27:15.829 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[1796] 2025/04/22 17:27:15.602 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[1796] 2025/04/22 17:27:15.696 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[1796] 2025/04/22 17:27:15.829 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [1796] 2025/04/22 17:27:15.830 Login all status is 0
-[4316] 2025/04/22 17:44:02.578 SKCenterLib_LoginGW R124457999
-[4316] 2025/04/22 17:44:02.912 /Login/Password Query result is 000,0;µn¤J¦¨¥\
+[4316] 2025/04/22 17:44:02.578 SKCenterLib_LoginGW USERNAME
+[4316] 2025/04/22 17:44:02.912 /Login/Password Query result is 000,0;ï¿½nï¿½Jï¿½ï¿½ï¿½\
 [4316] 2025/04/22 17:44:02.913 Start update timer automatically.  Result of Timer 5020
-[4316] 2025/04/22 17:44:03.205 /Common/Personal/GetOrder2LoginData Query result is 000,¦¨¥\
-[4316] 2025/04/22 17:44:03.297 /Common/Personal/GetAccountsByIDNO Query result is 000,¬d¸ß¦¨¥\
-[4316] 2025/04/22 17:44:03.441 Precheck/DistributedServer Query result is 000,¤À°t¦¨¥\
+[4316] 2025/04/22 17:44:03.205 /Common/Personal/GetOrder2LoginData Query result is 000,ï¿½ï¿½ï¿½\
+[4316] 2025/04/22 17:44:03.297 /Common/Personal/GetAccountsByIDNO Query result is 000,ï¿½dï¿½ß¦ï¿½ï¿½\
+[4316] 2025/04/22 17:44:03.441 Precheck/DistributedServer Query result is 000,ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½\
 [4316] 2025/04/22 17:44:03.441 Login all status is 0
