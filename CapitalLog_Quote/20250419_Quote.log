@@ -1,0 +1,49 @@
+-----------------------------------------------------------------
+[2912] 2025/04/19 22:28:12.280 Precheck/DistributedServer Query result is 000,分配成功
+[2912] 2025/04/19 22:28:12.280 >> Host srvsolace-bq.capital.com.tw
+[2912] 2025/04/19 22:28:12.717 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[2912] 2025/04/19 22:28:12.767 OnSessionConnect，Code: 3001, Error Code:0.
+[2912] 2025/04/19 22:28:12.779 SKQuoteLib_EnterMonitorLONG starting
+[2912] 2025/04/19 22:28:12.782 OnConnection ( 3001 , 0 ) 
+[2912] 2025/04/19 22:28:13.081 Market Info is OK!
+[2912] 2025/04/19 22:28:13.147 Catalog info is OK!
+[2912] 2025/04/19 22:28:16.145 Solace RequestInitializeData (TO_S_19,S_1F)
+[2912] 2025/04/19 22:28:16.145 Solace RequestInitializeData (TO_S_19,S_1F)
+[2912] 2025/04/19 22:28:16.150 OnConnection ( 3003 , 0 ) 
+[8288] 2025/04/19 22:32:47.570 Precheck/DistributedServer Query result is 000,分配成功
+[8288] 2025/04/19 22:32:47.570 >> Host srvsolace-bq.capital.com.tw
+[8288] 2025/04/19 22:32:47.883 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[8288] 2025/04/19 22:32:47.926 OnSessionConnect，Code: 3001, Error Code:0.
+[8288] 2025/04/19 22:32:48.190 SKQuoteLib_EnterMonitorLONG starting
+[8288] 2025/04/19 22:32:48.194 OnConnection ( 3001 , 0 ) 
+[8288] 2025/04/19 22:32:48.413 Market Info is OK!
+[8288] 2025/04/19 22:32:48.467 Catalog info is OK!
+[8288] 2025/04/19 22:32:51.334 Solace RequestInitializeData (TO_S_19,S_1F)
+[8288] 2025/04/19 22:32:51.334 Solace RequestInitializeData (TO_S_19,S_1F)
+[8288] 2025/04/19 22:32:51.335 OnConnection ( 3003 , 0 ) 
+[8288] 2025/04/19 22:33:02.521  SKQuoteLib_RequestTicks ( 0 , 2330 )
+[8288] 2025/04/19 22:33:02.521 MarketNo：0 StockIdx：34302
+[8288] 2025/04/19 22:33:02.521 Return PageNo： 0 
+[8288] 2025/04/19 22:33:03.442 SKQuoteLib_GetBest5LONG ( 0 , 34302 )
+[1368] 2025/04/19 23:12:28.677 Precheck/DistributedServer Query result is 000,分配成功
+[1368] 2025/04/19 23:12:28.677 >> Host srvsolace-bq.capital.com.tw
+[1368] 2025/04/19 23:12:29.059 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[1368] 2025/04/19 23:12:29.229 OnSessionConnect，Code: 3001, Error Code:0.
+[1368] 2025/04/19 23:12:29.254 SKQuoteLib_EnterMonitorLONG starting
+[1368] 2025/04/19 23:12:29.257 OnConnection ( 3001 , 0 ) 
+[1368] 2025/04/19 23:12:29.820 Market Info is OK!
+[1368] 2025/04/19 23:12:29.907 Catalog info is OK!
+[1368] 2025/04/19 23:12:33.865 Solace RequestInitializeData (TO_S_19,S_1F)
+[1368] 2025/04/19 23:12:33.865 Solace RequestInitializeData (TO_S_19,S_1F)
+[1368] 2025/04/19 23:12:33.866 OnConnection ( 3003 , 0 ) 
+[1368] 2025/04/19 23:12:48.639 SKQuoteLib_RequestStocks (0 , 1519)
+[1368] 2025/04/19 23:12:48.639 Divide StockNo {1519}
+[1368] 2025/04/19 23:12:48.639 Add Basket MarketNo：0 StockIdx：34133
+[1368] 2025/04/19 23:12:48.639 Return PageNo： 1 
+[1368] 2025/04/19 23:20:25.119  SKQuoteLib_RequestTicks ( 0 , 2330 )
+[1368] 2025/04/19 23:20:25.119 MarketNo：0 StockIdx：34302
+[1368] 2025/04/19 23:20:25.119 Return PageNo： 0 
+[1368] 2025/04/19 23:20:25.961 SKQuoteLib_GetBest5LONG ( 0 , 34302 )
+[1368] 2025/04/19 23:20:26.223  SKQuoteLib_RequestTicks ( 0 , 2330 )
+[1368] 2025/04/19 23:20:26.223 MarketNo：0 StockIdx：34302
+[1368] 2025/04/19 23:20:26.223 Return PageNo： 0 

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+[7868] 2025/04/20 12:36:54.448 SKCenterLib_LoginGW R124457999
+[7868] 2025/04/20 12:36:54.948 /Login/Password Query result is 000,0;登入成功
+[7868] 2025/04/20 12:36:54.949 Start update timer automatically.  Result of Timer 31107
+[7868] 2025/04/20 12:36:55.149 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[7868] 2025/04/20 12:36:55.218 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[7868] 2025/04/20 12:36:55.354 Precheck/DistributedServer Query result is 000,分配成功
+[7868] 2025/04/20 12:36:55.354 Login all status is 0
+[2788] 2025/04/20 18:40:37.618 SKCenterLib_LoginGW R124457999
+[2788] 2025/04/20 18:40:37.901 /Login/Password Query result is 000,0;登入成功
+[2788] 2025/04/20 18:40:37.901 Start update timer automatically.  Result of Timer 29884
+[2788] 2025/04/20 18:40:38.077 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[2788] 2025/04/20 18:40:38.152 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[2788] 2025/04/20 18:40:38.261 Precheck/DistributedServer Query result is 000,分配成功
+[2788] 2025/04/20 18:40:38.261 Login all status is 0
+[7260] 2025/04/20 22:53:01.806 SKCenterLib_LoginGW R124457999
+[7260] 2025/04/20 22:53:02.199 /Login/Password Query result is 000,0;登入成功
+[7260] 2025/04/20 22:53:02.199 Start update timer automatically.  Result of Timer 20216
+[7260] 2025/04/20 22:53:02.427 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[7260] 2025/04/20 22:53:02.491 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[7260] 2025/04/20 22:53:02.604 Precheck/DistributedServer Query result is 000,分配成功
+[7260] 2025/04/20 22:53:02.605 Login all status is 0

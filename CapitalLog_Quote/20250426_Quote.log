@@ -1,0 +1,30 @@
+-----------------------------------------------------------------
+[12216] 2025/04/26 18:04:01.032 Precheck/DistributedServer Query result is 000,分配成功
+[12216] 2025/04/26 18:04:01.033 >> Host srvsolace-tpa.capital.com.tw
+[12216] 2025/04/26 18:04:01.387 SKQuoteLib_EnterMonitor IP：srvsolace-tpa.capital.com.tw
+[12216] 2025/04/26 18:04:01.439 OnSessionConnect，Code: 3001, Error Code:0.
+[12216] 2025/04/26 18:04:01.483 SKQuoteLib_EnterMonitorLONG starting
+[12216] 2025/04/26 18:04:01.493 OnConnection ( 3001 , 0 ) 
+[12216] 2025/04/26 18:04:01.807 Market Info is OK!
+[12216] 2025/04/26 18:04:01.869 Catalog info is OK!
+[12216] 2025/04/26 18:04:04.200 Solace RequestInitializeData (TO_S_19,S_1F)
+[12216] 2025/04/26 18:04:04.200 Solace RequestInitializeData (TO_S_19,S_1F)
+[12216] 2025/04/26 18:04:04.201 OnConnection ( 3003 , 0 ) 
+[12216] 2025/04/26 18:04:05.123 SKQuoteLib_EnterMonitorLONG starting
+[12216] 2025/04/26 18:04:05.813 SKQuoteLib_LeaveMonitor() 
+[12216] 2025/04/26 18:04:05.815 OnConnection ( 3002 , 0 ) 
+[12216] 2025/04/26 18:04:07.442 Precheck/DistributedServer Query result is 000,分配成功
+[12216] 2025/04/26 18:04:07.442 >> Host srvsolace-tpa.capital.com.tw
+[12216] 2025/04/26 18:04:07.759 SKQuoteLib_EnterMonitor IP：srvsolace-tpa.capital.com.tw
+[12216] 2025/04/26 18:04:07.816 OnSessionConnect，Code: 3001, Error Code:0.
+[12216] 2025/04/26 18:04:07.830 SKQuoteLib_EnterMonitorLONG starting
+[12216] 2025/04/26 18:04:07.833 OnConnection ( 3001 , 0 ) 
+[12216] 2025/04/26 18:04:08.047 Market Info is OK!
+[12216] 2025/04/26 18:04:08.111 Catalog info is OK!
+[12216] 2025/04/26 18:04:10.395 Solace RequestInitializeData (TO_S_19,S_1F)
+[12216] 2025/04/26 18:04:10.395 Solace RequestInitializeData (TO_S_19,S_1F)
+[12216] 2025/04/26 18:04:10.396 OnConnection ( 3003 , 0 ) 
+[12216] 2025/04/26 18:04:12.733  SKQuoteLib_RequestTicks ( 0 , 2330 )
+[12216] 2025/04/26 18:04:12.733 MarketNo：0 StockIdx：29096
+[12216] 2025/04/26 18:04:12.733 Return PageNo： 0 
+[12216] 2025/04/26 18:04:12.813 SKQuoteLib_GetBest5LONG ( 0 , 29096 )

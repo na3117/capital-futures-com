@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+[2184] 2025/04/28 19:19:52.923 SKCenterLib_LoginGW R124457999
+[2184] 2025/04/28 19:19:53.290 /Login/Password Query result is 000,0;登入成功
+[2184] 2025/04/28 19:19:53.290 Start update timer automatically.  Result of Timer 26521
+[2184] 2025/04/28 19:19:53.470 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[2184] 2025/04/28 19:19:53.618 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[2184] 2025/04/28 19:19:53.844 Precheck/DistributedServer Query result is 000,分配成功
+[2184] 2025/04/28 19:19:53.845 Login all status is 0
+[2184] 2025/04/28 19:19:55.562 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[2184] 2025/04/28 19:35:52.637 -----------------------------------------------------------------

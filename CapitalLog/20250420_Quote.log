@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+[10552] 2025/04/20 18:36:55.585 Precheck/DistributedServer Query result is 000,分配成功
+[10552] 2025/04/20 18:36:55.586 >> Host srvsolace-bq.capital.com.tw
+[10552] 2025/04/20 18:36:55.929 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[10552] 2025/04/20 18:36:55.976 OnSessionConnect，Code: 3001, Error Code:0.
+[10552] 2025/04/20 18:36:55.993 SKQuoteLib_EnterMonitorLONG starting
+[10552] 2025/04/20 18:36:56.006 OnConnection ( 3001 , 0 ) 
+[10552] 2025/04/20 18:36:56.281 Market Info is OK!
+[10552] 2025/04/20 18:36:56.340 Catalog info is OK!
+[10552] 2025/04/20 18:36:58.790 Solace RequestInitializeData (TO_S_19,S_1F)
+[10552] 2025/04/20 18:36:58.790 Solace RequestInitializeData (TO_S_19,S_1F)
+[10552] 2025/04/20 18:36:58.791 OnConnection ( 3003 , 0 ) 
+[10552] 2025/04/20 18:37:01.961 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005)
+[10552] 2025/04/20 18:37:01.961 Divide StockNo {TX00}
+[10552] 2025/04/20 18:37:01.961 Stock Is Not Exist 
+[10552] 2025/04/20 18:37:01.961 Divide StockNo {MTX00}
+[10552] 2025/04/20 18:37:01.961 Stock Is Not Exist 
+[10552] 2025/04/20 18:37:01.961 Divide StockNo {6005}
+[10552] 2025/04/20 18:37:01.961 Add Basket MarketNo：0 StockIdx：34808
+[10552] 2025/04/20 18:37:01.961 Return PageNo： 1 
+[10552] 2025/04/20 18:37:03.971 -----------------------------------------------------------------

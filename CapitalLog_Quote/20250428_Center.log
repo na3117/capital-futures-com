@@ -1,0 +1,8 @@
+-----------------------------------------------------------------
+[12804] 2025/04/28 22:37:01.266 SKCenterLib_LoginGW R124457999
+[12804] 2025/04/28 22:37:01.587 /Login/Password Query result is 000,0;登入成功
+[12804] 2025/04/28 22:37:01.587 Start update timer automatically.  Result of Timer 31661
+[12804] 2025/04/28 22:37:01.768 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[12804] 2025/04/28 22:37:01.829 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[12804] 2025/04/28 22:37:01.948 Precheck/DistributedServer Query result is 000,分配成功
+[12804] 2025/04/28 22:37:01.950 Login all status is 0

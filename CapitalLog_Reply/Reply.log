@@ -1,0 +1,11 @@
+-----------------------------------------------------------------
+[2504] 2025/04/19 21:40:02.192 OnSessionConnect¡ACode: 3001, Error Code:0.
+[2504] 2025/04/19 21:40:02.559 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R1/R124457999/P","R1/R124457999/O","R1/R124457999/D"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:02.672 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R3/R124457999/O","R3/R124457999/D","R3/R124457999/P"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:02.808 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R24/R124457999/S"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:02.981 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R27/R124457999/S"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:03.105 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R2/R124457999/D","R2/R124457999/P","R2/R124457999/O"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:03.256 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R4/R124457999/O","R4/R124457999/D"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:03.383 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R11/R124457999/D","R11/R124457999/P","R11/R124457999/O"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:03.491 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R23/R124457999/S"],"FailTopics":[]}}
+[2504] 2025/04/19 21:40:03.595 APGWQuery Precheck/NewSubManager:{"Code":"000","Message":"SendSubReqeust Successed!","Datas":{"SaleAcc":[],"SuccessTopics":["R25/R124457999/S"],"FailTopics":[]}}

@@ -1,0 +1,5 @@
+-----------------------------------------------------------------
+[12216] 2025/04/26 18:03:57.361 OnReplyMessage, ID: R124457999 , Msg: SKReplyLib_OnReplyMessage:Announcement callback.
+[12216] 2025/04/26 18:04:01.387 After Precheck status:0 取得回報連線資訊
+[12216] 2025/04/26 18:04:05.815 OnSolaceReplyDisConnect, ID: R124457999 , Code: 3002
+[12216] 2025/04/26 18:04:07.759 After Precheck status:0 取得回報連線資訊

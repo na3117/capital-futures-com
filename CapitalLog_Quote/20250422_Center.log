@@ -1,0 +1,58 @@
+-----------------------------------------------------------------
+[6520] 2025/04/22 05:51:45.261 SKCenterLib_LoginGW R124457999
+[6520] 2025/04/22 05:51:45.960 /Login/Password Query result is 000,0;登入成功
+[6520] 2025/04/22 05:51:45.961 Start update timer automatically.  Result of Timer 31574
+[6520] 2025/04/22 05:51:46.203 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[6520] 2025/04/22 05:51:46.259 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[6520] 2025/04/22 05:51:46.452 Precheck/DistributedServer Query result is 000,分配成功
+[6520] 2025/04/22 05:51:46.452 Login all status is 0
+[1484] 2025/04/22 06:17:00.470 SKCenterLib_LoginGW R124457999
+[1484] 2025/04/22 06:17:00.766 /Login/Password Query result is 306,您輸入的帳號或密碼錯誤，請重新輸入，謝謝。
+[1484] 2025/04/22 06:17:00.766 Login error code is 306
+[1484] 2025/04/22 06:17:15.199 SKCenterLib_LoginGW R124457999
+[1484] 2025/04/22 06:17:15.399 /Login/Password Query result is 306,您輸入的帳號或密碼錯誤，請重新輸入，謝謝。
+[1484] 2025/04/22 06:17:15.399 Login error code is 306
+[1484] 2025/04/22 06:17:25.514 SKCenterLib_LoginGW R124457999
+[1484] 2025/04/22 06:17:25.663 /Login/Password Query result is 306,您輸入的帳號或密碼錯誤，請重新輸入，謝謝。
+[1484] 2025/04/22 06:17:25.663 Login error code is 306
+[7892] 2025/04/22 06:18:05.467 SKCenterLib_LoginGW R124457999
+[7892] 2025/04/22 06:18:05.659 /Login/Password Query result is 307,密碼輸錯超過上限已鎖定，請至各電子平台登入處點選【密碼專區】，以留存之有效手機接收認證碼，立即解鎖；如為期貨出金密碼鎖定，請逕洽期貨人工出金專線或撥02-4128878洽客服協助解鎖。
+[7892] 2025/04/22 06:18:05.659 Login error code is 307
+[7892] 2025/04/22 06:18:21.327 SKCenterLib_LoginGW R124457999
+[7892] 2025/04/22 06:18:21.519 /Login/Password Query result is 307,密碼輸錯超過上限已鎖定，請至各電子平台登入處點選【密碼專區】，以留存之有效手機接收認證碼，立即解鎖；如為期貨出金密碼鎖定，請逕洽期貨人工出金專線或撥02-4128878洽客服協助解鎖。
+[7892] 2025/04/22 06:18:21.519 Login error code is 307
+[7892] 2025/04/22 06:20:29.165 SKCenterLib_LoginGW R124457999
+[7892] 2025/04/22 06:20:29.358 /Login/Password Query result is 000,0;登入成功
+[7892] 2025/04/22 06:20:29.358 Start update timer automatically.  Result of Timer 30462
+[7892] 2025/04/22 06:20:29.506 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[7892] 2025/04/22 06:20:29.553 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[7892] 2025/04/22 06:20:29.655 Precheck/DistributedServer Query result is 000,分配成功
+[7892] 2025/04/22 06:20:29.655 Login all status is 0
+[12244] 2025/04/22 16:29:19.868 SKCenterLib_LoginGW R124457999
+[12244] 2025/04/22 16:29:20.253 /Login/Password Query result is 000,0;登入成功
+[12244] 2025/04/22 16:29:20.253 Start update timer automatically.  Result of Timer 6864
+[12244] 2025/04/22 16:29:20.449 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[12244] 2025/04/22 16:29:20.509 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[12244] 2025/04/22 16:29:20.649 Precheck/DistributedServer Query result is 000,分配成功
+[12244] 2025/04/22 16:29:20.649 Login all status is 0
+[9856] 2025/04/22 16:31:56.271 SKCenterLib_LoginGW R124457999
+[9856] 2025/04/22 16:31:56.581 /Login/Password Query result is 000,0;登入成功
+[9856] 2025/04/22 16:31:56.581 Start update timer automatically.  Result of Timer 6820
+[9856] 2025/04/22 16:31:56.903 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[9856] 2025/04/22 16:31:57.129 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[9856] 2025/04/22 16:31:57.326 Precheck/DistributedServer Query result is 000,分配成功
+[9856] 2025/04/22 16:31:57.326 Login all status is 0
+[1796] 2025/04/22 17:27:14.939 SKCenterLib_LoginGW R124457999
+[1796] 2025/04/22 17:27:15.291 /Login/Password Query result is 000,0;登入成功
+[1796] 2025/04/22 17:27:15.291 Start update timer automatically.  Result of Timer 5434
+[1796] 2025/04/22 17:27:15.602 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[1796] 2025/04/22 17:27:15.696 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[1796] 2025/04/22 17:27:15.829 Precheck/DistributedServer Query result is 000,分配成功
+[1796] 2025/04/22 17:27:15.830 Login all status is 0
+[4316] 2025/04/22 17:44:02.578 SKCenterLib_LoginGW R124457999
+[4316] 2025/04/22 17:44:02.912 /Login/Password Query result is 000,0;登入成功
+[4316] 2025/04/22 17:44:02.913 Start update timer automatically.  Result of Timer 5020
+[4316] 2025/04/22 17:44:03.205 /Common/Personal/GetOrder2LoginData Query result is 000,成功
+[4316] 2025/04/22 17:44:03.297 /Common/Personal/GetAccountsByIDNO Query result is 000,查詢成功
+[4316] 2025/04/22 17:44:03.441 Precheck/DistributedServer Query result is 000,分配成功
+[4316] 2025/04/22 17:44:03.441 Login all status is 0

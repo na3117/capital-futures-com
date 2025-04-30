@@ -1,0 +1,91 @@
+-----------------------------------------------------------------
+[7868] 2025/04/20 12:36:59.330 Precheck/DistributedServer Query result is 000,分配成功
+[7868] 2025/04/20 12:36:59.330 >> Host srvsolace-bq.capital.com.tw
+[7868] 2025/04/20 12:36:59.682 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[7868] 2025/04/20 12:36:59.765 OnSessionConnect，Code: 3001, Error Code:0.
+[7868] 2025/04/20 12:36:59.809 SKQuoteLib_EnterMonitorLONG starting
+[7868] 2025/04/20 12:36:59.820 OnConnection ( 3001 , 0 ) 
+[7868] 2025/04/20 12:37:00.061 Market Info is OK!
+[7868] 2025/04/20 12:37:00.108 Catalog info is OK!
+[7868] 2025/04/20 12:37:02.684 Solace RequestInitializeData (TO_S_19,S_1F)
+[7868] 2025/04/20 12:37:02.684 Solace RequestInitializeData (TO_S_19,S_1F)
+[7868] 2025/04/20 12:37:02.686 OnConnection ( 3003 , 0 ) 
+[7868] 2025/04/20 12:37:11.084 SKQuoteLib_RequestStocks (0 , 3211)
+[7868] 2025/04/20 12:37:11.084 Divide StockNo {3211}
+[7868] 2025/04/20 12:37:11.086 Add Basket MarketNo：1 StockIdx：297
+[7868] 2025/04/20 12:37:11.086 Return PageNo： 1 
+[2788] 2025/04/20 18:40:41.211 Precheck/DistributedServer Query result is 000,分配成功
+[2788] 2025/04/20 18:40:41.211 >> Host srvsolace-bq.capital.com.tw
+[2788] 2025/04/20 18:40:41.546 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[2788] 2025/04/20 18:40:41.614 OnSessionConnect，Code: 3001, Error Code:0.
+[2788] 2025/04/20 18:40:41.657 SKQuoteLib_EnterMonitorLONG starting
+[2788] 2025/04/20 18:40:41.673 OnConnection ( 3001 , 0 ) 
+[2788] 2025/04/20 18:40:41.914 Market Info is OK!
+[2788] 2025/04/20 18:40:41.972 Catalog info is OK!
+[2788] 2025/04/20 18:40:44.607 Solace RequestInitializeData (TO_S_19,S_1F)
+[2788] 2025/04/20 18:40:44.608 Solace RequestInitializeData (TO_S_19,S_1F)
+[2788] 2025/04/20 18:40:44.609 OnConnection ( 3003 , 0 ) 
+[2788] 2025/04/20 18:40:48.752  SKQuoteLib_RequestTicks ( 2330 , TX00 )
+[2788] 2025/04/20 18:41:00.544  SKQuoteLib_RequestTicks ( 2330 , 2330 )
+[2788] 2025/04/20 18:41:00.544 MarketNo：0 StockIdx：34302
+[2788] 2025/04/20 18:41:00.544 Return PageNo： 0 
+[2788] 2025/04/20 18:41:01.383 SKQuoteLib_GetBest5LONG ( 0 , 34302 )
+[7260] 2025/04/20 22:53:06.748 Precheck/DistributedServer Query result is 000,分配成功
+[7260] 2025/04/20 22:53:06.749 >> Host srvsolace-bq.capital.com.tw
+[7260] 2025/04/20 22:53:07.105 SKQuoteLib_EnterMonitor IP：srvsolace-bq.capital.com.tw
+[7260] 2025/04/20 22:53:07.156 OnSessionConnect，Code: 3001, Error Code:0.
+[7260] 2025/04/20 22:53:07.205 SKQuoteLib_EnterMonitorLONG starting
+[7260] 2025/04/20 22:53:07.214 OnConnection ( 3001 , 0 ) 
+[7260] 2025/04/20 22:53:07.552 Market Info is OK!
+[7260] 2025/04/20 22:53:07.611 Catalog info is OK!
+[7260] 2025/04/20 22:53:10.240 Solace RequestInitializeData (TO_S_19,S_1F)
+[7260] 2025/04/20 22:53:10.240 Solace RequestInitializeData (TO_S_19,S_1F)
+[7260] 2025/04/20 22:53:10.241 OnConnection ( 3003 , 0 ) 
+[7260] 2025/04/20 22:53:16.063 SKQuoteLib_RequestStocks (0 , 2330)
+[7260] 2025/04/20 22:53:16.063 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:16.063 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:16.063 Return PageNo： 1 
+[7260] 2025/04/20 22:53:21.719 SKQuoteLib_RequestStocks (1 , 2330)
+[7260] 2025/04/20 22:53:21.719 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:21.719 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:21.719 Return PageNo： 1 
+[7260] 2025/04/20 22:53:23.207 SKQuoteLib_RequestStocks (1 , 2330)
+[7260] 2025/04/20 22:53:23.207 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:23.207 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:23.207 Return PageNo： 1 
+[7260] 2025/04/20 22:53:23.423 SKQuoteLib_RequestStocks (1 , 2330)
+[7260] 2025/04/20 22:53:23.423 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:23.423 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:23.423 Return PageNo： 1 
+[7260] 2025/04/20 22:53:23.623 SKQuoteLib_RequestStocks (1 , 2330)
+[7260] 2025/04/20 22:53:23.623 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:23.623 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:23.623 Return PageNo： 1 
+[7260] 2025/04/20 22:53:23.815 SKQuoteLib_RequestStocks (1 , 2330)
+[7260] 2025/04/20 22:53:23.815 Divide StockNo {2330}
+[7260] 2025/04/20 22:53:23.815 Add Basket MarketNo：0 StockIdx：34302
+[7260] 2025/04/20 22:53:23.815 Return PageNo： 1 
+[7260] 2025/04/20 22:53:30.263 SKQuoteLib_RequestStocks (1 , 4192)
+[7260] 2025/04/20 22:53:30.263 Divide StockNo {4192}
+[7260] 2025/04/20 22:53:30.263 Add Basket MarketNo：1 StockIdx：526
+[7260] 2025/04/20 22:53:30.263 Return PageNo： 1 
+[7260] 2025/04/20 22:53:44.543 SKQuoteLib_RequestStocks (0 , 3321)
+[7260] 2025/04/20 22:53:44.543 Divide StockNo {3321}
+[7260] 2025/04/20 22:53:44.543 Add Basket MarketNo：0 StockIdx：34627
+[7260] 2025/04/20 22:53:48.447 SKQuoteLib_RequestStocks (1 , 3321)
+[7260] 2025/04/20 22:53:48.447 Divide StockNo {3321}
+[7260] 2025/04/20 22:53:48.447 Add Basket MarketNo：0 StockIdx：34627
+[7260] 2025/04/20 22:53:48.447 Return PageNo： 1 
+[7260] 2025/04/20 22:54:00.031 SKQuoteLib_RequestStocks (1 , 3221)
+[7260] 2025/04/20 22:54:00.031 Divide StockNo {3221}
+[7260] 2025/04/20 22:54:00.031 Add Basket MarketNo：1 StockIdx：302
+[7260] 2025/04/20 22:54:00.031 Return PageNo： 1 
+[7260] 2025/04/20 22:54:16.847 SKQuoteLib_RequestStocks (1 , 3321)
+[7260] 2025/04/20 22:54:16.847 Divide StockNo {3321}
+[7260] 2025/04/20 22:54:16.847 Add Basket MarketNo：0 StockIdx：34627
+[7260] 2025/04/20 22:54:16.847 Return PageNo： 1 
+[7260] 2025/04/20 22:54:30.327 SKQuoteLib_RequestStocks (0 , 3321)
+[7260] 2025/04/20 22:54:30.327 Divide StockNo {3321}
+[7260] 2025/04/20 22:54:30.327 Add Basket MarketNo：0 StockIdx：34627
+[7260] 2025/04/20 22:54:45.959 SKQuoteLib_LeaveMonitor() 
+[7260] 2025/04/20 22:54:45.961 OnConnection ( 3002 , 0 ) 

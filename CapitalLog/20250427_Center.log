@@ -1,0 +1,55 @@
+-----------------------------------------------------------------
+[14052] 2025/04/27 13:29:38.950 SKCenterLib_LoginGW R124457999
+[14052] 2025/04/27 13:29:39.278 /Login/Password Query result is 000,0;祅Θ
+[14052] 2025/04/27 13:29:39.279 Start update timer automatically.  Result of Timer 2907
+[14052] 2025/04/27 13:29:39.464 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[14052] 2025/04/27 13:29:39.520 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[14052] 2025/04/27 13:29:39.651 Precheck/DistributedServer Query result is 000,だ皌Θ
+[14052] 2025/04/27 13:29:39.651 Login all status is 0
+[14052] 2025/04/27 13:29:40.578 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[14052] 2025/04/27 13:30:24.282 -----------------------------------------------------------------
+[6072] 2025/04/27 13:33:21.423 SKCenterLib_LoginGW R124457999
+[6072] 2025/04/27 13:33:21.713 /Login/Password Query result is 000,0;祅Θ
+[6072] 2025/04/27 13:33:21.713 Start update timer automatically.  Result of Timer 2161
+[6072] 2025/04/27 13:33:21.913 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[6072] 2025/04/27 13:33:21.986 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[6072] 2025/04/27 13:33:22.139 Precheck/DistributedServer Query result is 000,だ皌Θ
+[6072] 2025/04/27 13:33:22.139 Login all status is 0
+[6072] 2025/04/27 13:33:22.951 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[6072] 2025/04/27 13:33:30.805 -----------------------------------------------------------------
+[8808] 2025/04/27 13:50:05.165 SKCenterLib_LoginGW R124457999
+[8808] 2025/04/27 13:50:05.580 /Login/Password Query result is 000,0;祅Θ
+[8808] 2025/04/27 13:50:05.580 Start update timer automatically.  Result of Timer 1254
+[8808] 2025/04/27 13:50:05.814 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[8808] 2025/04/27 13:50:05.882 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[8808] 2025/04/27 13:50:06.032 Precheck/DistributedServer Query result is 000,だ皌Θ
+[8808] 2025/04/27 13:50:06.032 Login all status is 0
+[8808] 2025/04/27 13:50:06.899 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[8808] 2025/04/27 13:50:20.483 -----------------------------------------------------------------
+[6432] 2025/04/27 13:57:06.364 SKCenterLib_LoginGW R124457999
+[6432] 2025/04/27 13:57:06.870 /Login/Password Query result is 000,0;祅Θ
+[6432] 2025/04/27 13:57:06.870 Start update timer automatically.  Result of Timer 32591
+[6432] 2025/04/27 13:57:07.041 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[6432] 2025/04/27 13:57:07.093 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[6432] 2025/04/27 13:57:07.234 Precheck/DistributedServer Query result is 000,だ皌Θ
+[6432] 2025/04/27 13:57:07.234 Login all status is 0
+[6432] 2025/04/27 13:57:08.081 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[6432] 2025/04/27 14:00:54.501 -----------------------------------------------------------------
+[11812] 2025/04/27 14:02:46.422 SKCenterLib_LoginGW R124457999
+[11812] 2025/04/27 14:02:46.712 /Login/Password Query result is 000,0;祅Θ
+[11812] 2025/04/27 14:02:46.712 Start update timer automatically.  Result of Timer 32331
+[11812] 2025/04/27 14:02:47.009 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[11812] 2025/04/27 14:02:47.068 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[11812] 2025/04/27 14:02:47.210 Precheck/DistributedServer Query result is 000,だ皌Θ
+[11812] 2025/04/27 14:02:47.210 Login all status is 0
+[11812] 2025/04/27 14:02:48.019 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[11812] 2025/04/27 14:03:28.041 -----------------------------------------------------------------
+[3608] 2025/04/27 17:59:31.326 SKCenterLib_LoginGW R124457999
+[3608] 2025/04/27 17:59:31.667 /Login/Password Query result is 000,0;祅Θ
+[3608] 2025/04/27 17:59:31.667 Start update timer automatically.  Result of Timer 31542
+[3608] 2025/04/27 17:59:31.818 /Common/Personal/GetOrder2LoginData Query result is 000,Θ
+[3608] 2025/04/27 17:59:31.870 /Common/Personal/GetAccountsByIDNO Query result is 000,琩高Θ
+[3608] 2025/04/27 17:59:31.962 Precheck/DistributedServer Query result is 000,だ皌Θ
+[3608] 2025/04/27 17:59:31.963 Login all status is 0
+[3608] 2025/04/27 17:59:32.710 SKCenterLib_GetSKAPIVersionAndBit 2.13.53_x86
+[3608] 2025/04/27 17:59:38.486 -----------------------------------------------------------------
